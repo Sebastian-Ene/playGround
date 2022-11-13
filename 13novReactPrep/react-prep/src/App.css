@@ -1,0 +1,13 @@
+button {
+    margin-bottom: 10px;
+}
+
+#root {
+    padding: 10px;
+}
+
+.exercise {
+    border: 1px black solid;
+    padding: 1em;
+    margin: 1em;
+}
